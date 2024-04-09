@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/developer-gif-23414225" width="100"/>
+  <img src="https://tenor.com/ru/view/peppo-dance-programming-gif-20353294" width="100"/>
 </div>
